@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://gist.githubusercontent.com/manifest_test1.json",
+  "@type": "sc:Manifest",
+  "label": "陰徳爺 テスト1ページ",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://free.iiifhosting.com/iiif/165dc2880ddd69d4c9f14e6b47351d821102a44898fd0dd3729ad4fb00ccac14/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "p. 1",
+          "width": 1905,
+          "height": 1566,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://free.iiifhosting.com/iiif/165dc2880ddd69d4c9f14e6b47351d821102a44898fd0dd3729ad4fb00ccac14/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1905,
+                "height": 1566,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://free.iiifhosting.com/iiif/165dc2880ddd69d4c9f14e6b47351d821102a44898fd0dd3729ad4fb00ccac14",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://free.iiifhosting.com/iiif/165dc2880ddd69d4c9f14e6b47351d821102a44898fd0dd3729ad4fb00ccac14/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
