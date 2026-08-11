@@ -1,0 +1,221 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ikk72556-cmyk.github.io/hanasaki/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "陰徳爺 (花咲爺)",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "p. 1",
+          "width": 1905,
+          "height": 1566,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page1/0002_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1905,
+                "height": 1566,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page1/0002_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p2",
+          "@type": "sc:Canvas",
+          "label": "p. 2",
+          "width": 1949,
+          "height": 1584,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page2/0003_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1949,
+                "height": 1584,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page2/0003_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p2"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p3",
+          "@type": "sc:Canvas",
+          "label": "p. 3",
+          "width": 1935,
+          "height": 1600,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page3/0004_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1935,
+                "height": 1600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page3/0004_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p3"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p4",
+          "@type": "sc:Canvas",
+          "label": "p. 4",
+          "width": 1939,
+          "height": 1598,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page4/0005_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1939,
+                "height": 1598,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page4/0005_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p4"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p5",
+          "@type": "sc:Canvas",
+          "label": "p. 5",
+          "width": 1915,
+          "height": 1593,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page5/0006_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1915,
+                "height": 1593,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page5/0006_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p5"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p6",
+          "@type": "sc:Canvas",
+          "label": "p. 6",
+          "width": 1933,
+          "height": 1637,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page6/0007_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1933,
+                "height": 1637,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page6/0007_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p6"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p7",
+          "@type": "sc:Canvas",
+          "label": "p. 7",
+          "width": 1878,
+          "height": 1605,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page7/0008_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1878,
+                "height": 1605,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page7/0008_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p7"
+            }
+          ]
+        },
+        {
+          "@id": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p8",
+          "@type": "sc:Canvas",
+          "label": "p. 8",
+          "width": 1878,
+          "height": 1557,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ikk72556-cmyk.github.io/hanasaki/page8/0009_0000/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1878,
+                "height": 1557,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ikk72556-cmyk.github.io/hanasaki/page8/0009_0000",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              },
+              "on": "https://ikk72556-cmyk.github.io/hanasaki/canvas/p8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
